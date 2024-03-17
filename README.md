@@ -1,13 +1,4 @@
-# Tipo de usuario
-- [ ] Alfa
-- [ ] Bravo 
-- [ ] Charlie
-- [ ] Delta
-- [ ] Echo
-
-# Seleccione el tipo de actividad
-- [ ] Feature
-- [ ] Hotfix
-- [ ] Refactor
-- [ ] Performance
-- [ ] Testing
+Abraham Estanga - Alfa 
+Diego Hernández - Bravo
+Angyee Marín - Charlie
+Daniel Mendez - Delta
